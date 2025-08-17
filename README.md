@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShadowMonarch-Dark
 - 👀 I’m interested in Solving Problem
 - 🌱 I’m currently learning .DSA in C++ and Web Development
-- 💞️ I’m looking to collaborate on Frontend Project
+- 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 How to reach me ...
 - 😄 Pronouns: He
 - ⚡ Fun fact: Solo leveling Fan
