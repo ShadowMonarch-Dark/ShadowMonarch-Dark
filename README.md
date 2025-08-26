@@ -12,10 +12,14 @@
 
 ---
 
-## 📊 GitHub Stats
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowMonarch&show_icons=true&theme=tokyonight)  
+<!-- GitHub Stats -->
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowMonarch-Dark&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarch&layout=compact&theme=tokyonight)
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarch-Dark&theme=radical)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarch-Dark&layout=compact&theme=radical)
 
 ---
 
@@ -28,10 +32,10 @@
 ---
 
 ## 🔥 Streak
-![GitHub Streak]
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShadowMonarch-Dark&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 ---
