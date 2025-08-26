@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600">
+</p>
+
 # Hi there 👋, I'm Deepak Kumar  
 
 💻 **Aspiring Software Developer | Competitive Programmer | Web Developer**  
