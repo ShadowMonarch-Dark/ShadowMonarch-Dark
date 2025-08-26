@@ -16,7 +16,7 @@
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowMonarch-Dark&show_icons=true&theme=radical)
 
 <!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarch-Dark&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShadowMonarch-Dark&theme=radical)
 
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarch-Dark&layout=compact&theme=radical)
@@ -36,8 +36,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ShadowMonarch-Dark&theme=radical" alt="GitHub Streak" />
 </p>
 
-
-
 ---
 
 ## ✨ Cool Animations
@@ -46,6 +44,6 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/deepak-kumar-7a4a3b258/]  
+- LinkedIn: [Deepak Kumar](https://www.linkedin.com/in/deepak-kumar-7a4a3b258/)  
 - Portfolio: [Your Portfolio link]  
 - Email: deepakgiri25113@gmail.com  
