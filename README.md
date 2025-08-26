@@ -28,7 +28,11 @@
 ---
 
 ## 🔥 Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarch&theme=tokyonight)
+![GitHub Streak]
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+</p>
+
 
 ---
 
@@ -38,6 +42,6 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn link]  
+- LinkedIn: [https://www.linkedin.com/in/deepak-kumar-7a4a3b258/]  
 - Portfolio: [Your Portfolio link]  
 - Email: deepakgiri25113@gmail.com  
