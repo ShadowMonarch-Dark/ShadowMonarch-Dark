@@ -6,6 +6,15 @@
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Deepak%20Kumar%20🚀%20Software%20Developer&width=800&height=200" alt="Deepak Kumar - Software Developer" />
 </p>
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Deepak%20Kumar%20%E2%9A%A1%EF%B8%8F%20Software%20Developer&text2=Frontend%20·%20Fullstack%20·%20Open%20to%20collab&width=1000&height=220" alt="Deepak Kumar - Software Developer" />
+</p>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Deepak%20Kumar%20%7C%20Software%20Developer&width=900&height=160" alt="Deepak Kumar - Software Developer" />
+</p>
+
+
 
 # Hi there 👋, I'm Deepak Kumar  
 
