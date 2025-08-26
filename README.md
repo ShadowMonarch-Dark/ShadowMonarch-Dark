@@ -2,6 +2,11 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600">
 </p>
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Deepak%20Kumar%20🚀%20Software%20Developer&width=800&height=200" alt="Deepak Kumar - Software Developer" />
+</p>
+
+
 # Hi there 👋, I'm Deepak Kumar  
 
 💻 **Aspiring Software Developer | Competitive Programmer | Web Developer**  
