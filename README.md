@@ -7,14 +7,28 @@
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Deepak%20Kumar%20%E2%9A%A1%EF%B8%8F%20Software%20Developer&text2=Frontend%20·%20Fullstack%20·%20Open%20to%20collab&width=1000&height=220" alt="Deepak Kumar - Software Developer" />
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Deepak%20Kumar%20⚡%20Software%20Developer&text2=Crafting%20Clean%20Code%20·%20Frontend%20%26%20Fullstack&width=1000&height=220" alt="Deepak Kumar - Software Developer" />
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Deepak%20Kumar%20%7C%20Software%20Developer&width=900&height=160" alt="Deepak Kumar - Software Developer" />
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Deepak%20Kumar%20⚡%20Software%20Developer&width=1000&height=220" alt="Deepak Kumar - Software Developer" />
 </p>
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=wave&text1=Deepak%20Kumar%20⚡%20Software%20Developer&width=1000&height=220" alt="Deepak Kumar - Software Developer" />
+</p>
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Deepak%20Kumar%20⚡%20Software%20Developer&width=1000&height=220" alt="Deepak Kumar - Software Developer" />
+</p>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Deepak%20Kumar%20⚡%20Software%20Developer&width=1000&height=220" alt="Deepak Kumar - Software Developer" />
+</p>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=capsule&text1=Deepak%20Kumar%20⚡%20Software%20Developer&width=1000&height=220" alt="Deepak Kumar - Software Developer" />
+</p>
 
 # Hi there 👋, I'm Deepak Kumar  
 
