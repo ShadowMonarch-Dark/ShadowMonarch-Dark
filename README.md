@@ -11,7 +11,7 @@
 ⚡ Fun fact: I love anime & problem-solving.  
 
 ---
-
+## GitHub Stats:
 <!-- GitHub Stats -->
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowMonarch-Dark&show_icons=true&theme=radical)
 
