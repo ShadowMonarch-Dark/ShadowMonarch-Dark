@@ -2,34 +2,6 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600">
 </p>
 
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Deepak%20Kumar%20🚀%20Software%20Developer&width=800&height=200" alt="Deepak Kumar - Software Developer" />
-</p>
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Deepak%20Kumar%20⚡%20Software%20Developer&text2=Crafting%20Clean%20Code%20·%20Frontend%20%26%20Fullstack&width=1000&height=220" alt="Deepak Kumar - Software Developer" />
-</p>
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Deepak%20Kumar%20⚡%20Software%20Developer&width=1000&height=220" alt="Deepak Kumar - Software Developer" />
-</p>
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=wave&text1=Deepak%20Kumar%20⚡%20Software%20Developer&width=1000&height=220" alt="Deepak Kumar - Software Developer" />
-</p>
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Deepak%20Kumar%20⚡%20Software%20Developer&width=1000&height=220" alt="Deepak Kumar - Software Developer" />
-</p>
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Deepak%20Kumar%20⚡%20Software%20Developer&width=1000&height=220" alt="Deepak Kumar - Software Developer" />
-</p>
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=capsule&text1=Deepak%20Kumar%20⚡%20Software%20Developer&width=1000&height=220" alt="Deepak Kumar - Software Developer" />
-</p>
-
 # Hi there 👋, I'm Deepak Kumar  
 
 💻 **Aspiring Software Developer | Competitive Programmer | Web Developer**  
