@@ -69,5 +69,5 @@
 
 ## 📫 Connect With Me
 - LinkedIn: [Deepak Kumar](https://www.linkedin.com/in/deepak-kumar-7a4a3b258/)  
-- Portfolio: [Your Portfolio link]  
+- Portfolio: https://personal-portfolio-1avl.onrender.com/
 - Email: deepakgiri25113@gmail.com  
