@@ -58,7 +58,6 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/ShadowMonarch-Dark/ShadowMonarch-Dark/output/snake.svg" alt="Snake animation" />
 
 
 ---
