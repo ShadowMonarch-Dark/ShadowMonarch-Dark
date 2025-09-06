@@ -58,7 +58,7 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/sonuthecoder96/sonuthecoder96/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ShadowMonarch-Dark/ShadowMonarch-Dark/output/snake.svg" alt="Snake animation" />
 
 
 ---
