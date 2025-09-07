@@ -18,7 +18,7 @@
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadowMonarch-Dark&show_icons=true&theme=radical)
 
 <!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ShadowMonarch-Dark&theme=radical)
+<!-- ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ShadowMonarch-Dark&theme=radical) -->
 
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarch-Dark&layout=compact&theme=radical)
