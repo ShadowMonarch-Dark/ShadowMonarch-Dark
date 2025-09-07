@@ -57,13 +57,6 @@
 
 
 
----
-
-## ✨ Cool Animations
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&lines=Hi+There!+I'm+Deepak;Competitive+Programmer;Frontend+Developer;Anime+Lover)](https://git.io/typing-svg)
-
----
-
 ## 📫 Connect With Me
 - LinkedIn: [Deepak Kumar](https://www.linkedin.com/in/deepak-kumar-7a4a3b258/)  
 - Portfolio: https://personal-portfolio-1avl.onrender.com/
