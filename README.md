@@ -26,6 +26,9 @@
 
 ---
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
 ## 🐍 Contribution Snake
 
 <p align="center">
