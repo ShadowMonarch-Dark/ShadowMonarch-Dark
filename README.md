@@ -10,11 +10,27 @@
 
 ---
 
+## 🚀 Portfolio & Connect  
+
+<p align="center">
+  <a href="https://personal-portfolio-1avl.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/deepak-kumar-7a4a3b258/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:deepakgiri25113@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShadowMonarch-Dark&show_icons=true&theme=radical&hide_border=false&border_radius=10" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarch-Dark&layout=compact&theme=radical&hide_border=false&border_radius=10" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShadowMonarch-Dark&show_icons=true&theme=radical&hide_border=false&border_radius=10&card_width=400" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarch-Dark&layout=compact&theme=radical&hide_border=false&border_radius=10&card_width=400" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
@@ -58,20 +74,4 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShadowMonarch-Dark&theme=radical&no-frame=false&no-bg=true&margin-w=10&row=1&column=6" alt="Trophies"/>
-</p>
-
----
-
-## 📫 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/deepak-kumar-7a4a3b258/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:deepakgiri25113@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://personal-portfolio-1avl.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 </p>
