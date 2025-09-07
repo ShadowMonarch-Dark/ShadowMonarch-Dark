@@ -7,19 +7,18 @@
 💻 **Aspiring Software Developer | Competitive Programmer | Full Stack Web Developer**  
 🌱 Currently learning **React, Node.js, and DSA**  
 💡 Interested in **SDE Roles, Open Source, and System Design**  
-⚡ Fun fact: I love anime & solving complex problems.  
 
 ---
 
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShadowMonarch-Dark&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarch-Dark&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShadowMonarch-Dark&show_icons=true&theme=radical&hide_border=false&border_radius=10" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarch-Dark&layout=compact&theme=radical&hide_border=false&border_radius=10" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarch-Dark&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarch-Dark&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -58,7 +57,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShadowMonarch-Dark&theme=radical&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShadowMonarch-Dark&theme=radical&no-frame=false&no-bg=true&margin-w=10&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
@@ -76,7 +75,3 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
