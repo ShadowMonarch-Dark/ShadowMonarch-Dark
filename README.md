@@ -1,8 +1,5 @@
-<!--
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600">
-</p>
--->
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Deepak%20Kumar%20%7C%20Full%20Stack%20Developer&fontSize=40&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descAlign=50)
+
 
 # Hi there 👋, I'm Deepak Kumar  
 
