@@ -58,6 +58,12 @@
 
 
 ## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-7a4a3b258/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakgiri25113@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-1avl.onrender.com/)  
+
+<!--
 - LinkedIn: [Deepak Kumar](https://www.linkedin.com/in/deepak-kumar-7a4a3b258/)  
 - Portfolio: https://personal-portfolio-1avl.onrender.com/
-- Email: deepakgiri25113@gmail.com  
+- Email: deepakgiri25113@gmail.com   -->
