@@ -48,9 +48,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMonarch-Dark&layout=compact&theme=radical&hide_border=false&border_radius=10&card_width=400" alt="Top Languages" height="180"/>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowMonarch-Dark&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak"/>
-</p>
+</p> -->
 
 ---
 
