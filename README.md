@@ -13,9 +13,9 @@
 ## 🚀 Portfolio & Connect  
 
 <p align="center">
-  <a href="https://personal-portfolio-1avl.onrender.com/">
+  <!-- <a href="https://personal-portfolio-1avl.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/deepak-kumar-7a4a3b258/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
